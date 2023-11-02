@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: be8aa6cdf41990c46900c491f972bf16, type: 3}
+  m_Name: Level 2
+  m_EditorClassIdentifier: 
+  PresentedName: Level 2
+  SceneName: SampleScene
+  StartingLives: 8
+  StartingMoney: 18
+  Waves:
+  - NumberOfEnemies: 7
+    EnemyType: {fileID: 11400000, guid: 555506a991f1ba847a424fc84df98c11, type: 2}
+    CooldownBetweenEnemies: 0.9
+  - NumberOfEnemies: 9
+    EnemyType: {fileID: 11400000, guid: a408f13889490b6478773f6cfe071530, type: 2}
+    CooldownBetweenEnemies: 0.7
+  - NumberOfEnemies: 5
+    EnemyType: {fileID: 11400000, guid: b4e11f3f6d730a6468af5b097141d3d5, type: 2}
+    CooldownBetweenEnemies: 1
+  Towers:
+  - {fileID: 11400000, guid: c35576a1f524dc545bb8acb94053a1ef, type: 2}
+  - {fileID: 11400000, guid: b2e7c946de82e2341803d1ab3e6ab7c4, type: 2}

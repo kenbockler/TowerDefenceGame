@@ -1,0 +1,2899 @@
+fileFormatVersion: 2
+guid: 02bfd61700e1697488330a9bfa3a7354
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 62
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: medieval_tilesheet_0
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 609
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d9dcc5549340d5429f83fd326f36d7c
+      internalID: 159684166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medieval_tilesheet_1
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 609
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afc5da807e66d7648966cc2a65c13e34
+      internalID: 1924049763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medieval_tilesheet_2
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 609
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4aae85ffc172e9b4890e1cef5b10b49f
+      internalID: 186985925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medieval_tilesheet_3
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 609
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46c15bba60fc0a747a93a37bf8ea2eb0
+      internalID: 1024198630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medieval_tilesheet_4
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 609
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 362e1a8cd20cf0c4ca8129898db1f575
+      internalID: -448063378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medieval_tilesheet_5
+      rect:
+        serializedVersion: 2
+        x: 513
+        y: 609
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 135974c8446ee874b8c88bcfba81a1dc
+      internalID: -579400131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medieval_tilesheet_6
+      rect:
+        serializedVersion: 2
+        x: 609
+        y: 609
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd74467ac25154d46a0bc051109cea69
+      internalID: 170366831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medieval_tilesheet_7
+      rect:
+        serializedVersion: 2
+        x: 705
+        y: 609
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35b04987c7c5a944ea58c15590a5f428
+      internalID: -236281756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medieval_tilesheet_8
+      rect:
+        serializedVersion: 2
+        x: 801
+        y: 609
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 401e1ded4d38de6499e75881c43ac5f0
+      internalID: -1968680855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medieval_tilesheet_9
+      rect:
+        serializedVersion: 2
+        x: 897
+        y: 609
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 101600872cc18a0498ed3ed771586bbd
+      internalID: -383490923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medieval_tilesheet_10
+      rect:
+        serializedVersion: 2
+        x: 993
+        y: 609
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf9b49b75d750af408453fa2926db2b4
+      internalID: 828986579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medieval_tilesheet_11
+      rect:
+        serializedVersion: 2
+        x: 1089
+        y: 609
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b8d48b85171c2048b16b22efb6bc4cf
+      internalID: -1857933574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medieval_tilesheet_12
+      rect:
+        serializedVersion: 2
+        x: 1185
+        y: 609
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d7b025aa1f1f74478bd63a58e78d582
+      internalID: -2026269519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medieval_tilesheet_13
+      rect:
+        serializedVersion: 2
+        x: 1281
+        y: 609
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddaf7d10d5804f945a4520b22c655eb8
+      internalID: -8902081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medieval_tilesheet_14
+      rect:
+        serializedVersion: 2
+        x: 1377
+        y: 609
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4d48646533bd99419bd0670f2ebec9d
+      internalID: -1889903896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medieval_tilesheet_15
+      rect:
+        serializedVersion: 2
+        x: 1473
+        y: 609
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29a7a5de588108246a589e2cd5d57a57
+      internalID: 1860684700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medieval_tilesheet_16
+      rect:
+        serializedVersion: 2
+        x: 1569
+        y: 609
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96aca325a1649c54ab60ab29261a1885
+      internalID: -1096853881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medieval_tilesheet_17
+      rect:
+        serializedVersion: 2
+        x: 1665
+        y: 609
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75c792ead6579d840abbab9af09b401a
+      internalID: 1419009689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medieval_tilesheet_18
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 513
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88936bc9271c89b41a1c70149ce7687e
+      internalID: 329024926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medieval_tilesheet_19
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 513
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60ba1d10c708f46458a98712fefc4b41
+      internalID: 819398060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medieval_tilesheet_20
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 513
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 818bd271b940622408ae884276539fcf
+      internalID: 1730250876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medieval_tilesheet_21
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 513
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a980ae355b6816b4381de9397ec7f624
+      internalID: 1638547519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medieval_tilesheet_22
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 513
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e1d1bb2754e1ae4eb671b151cc47207
+      internalID: 1402567707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medieval_tilesheet_23
+      rect:
+        serializedVersion: 2
+        x: 513
+        y: 513
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2af22f04ac1f1e440ade840c3a6af8c0
+      internalID: 994244595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medieval_tilesheet_24
+      rect:
+        serializedVersion: 2
+        x: 609
+        y: 513
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 191ada196a2e99748844d63a8d56e94f
+      internalID: -727100525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medieval_tilesheet_25
+      rect:
+        serializedVersion: 2
+        x: 705
+        y: 513
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bee70da3eba202d4a950c2081fc0bbd8
+      internalID: 1446861482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medieval_tilesheet_26
+      rect:
+        serializedVersion: 2
+        x: 801
+        y: 513
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a10a03d2f0fc44b478c4c777d2dc6258
+      internalID: -697832309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medieval_tilesheet_27
+      rect:
+        serializedVersion: 2
+        x: 897
+        y: 513
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b37c5f28e046cd145976a707bb05bf1c
+      internalID: 1333082675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medieval_tilesheet_28
+      rect:
+        serializedVersion: 2
+        x: 993
+        y: 513
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1153f60c4380db74f8996aeba2b35100
+      internalID: 1925341368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medieval_tilesheet_29
+      rect:
+        serializedVersion: 2
+        x: 1089
+        y: 513
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0603ae4b9864664e9a3a4ebb15e4a52
+      internalID: 550847647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medieval_tilesheet_30
+      rect:
+        serializedVersion: 2
+        x: 1185
+        y: 513
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69d619d9621fb9a41abc206ee7df86b1
+      internalID: -930243237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medieval_tilesheet_31
+      rect:
+        serializedVersion: 2
+        x: 1281
+        y: 513
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db7f15e1e5d5fb54db2538f6f1fb60cb
+      internalID: 1696390513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medieval_tilesheet_32
+      rect:
+        serializedVersion: 2
+        x: 1377
+        y: 513
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f04298af2a934c47a5dd4550c3ae3b2
+      internalID: -1545226089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medieval_tilesheet_33
+      rect:
+        serializedVersion: 2
+        x: 1473
+        y: 513
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3bc7a743eaaca54db4fe2cc40450ae6
+      internalID: -348525927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medieval_tilesheet_34
+      rect:
+        serializedVersion: 2
+        x: 1569
+        y: 513
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a527d2aec0d15f042b5864a5cc31efbc
+      internalID: -899064600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medieval_tilesheet_35
+      rect:
+        serializedVersion: 2
+        x: 1665
+        y: 513
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2de920f1b3e452a40ad0699c815051cd
+      internalID: -1233422143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medieval_tilesheet_36
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 417
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c5fbc0b85a39d54d857cda2f448315b
+      internalID: -887263709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medieval_tilesheet_37
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 417
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e65b3694d94bc84468aa164f02c17466
+      internalID: -2022357419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medieval_tilesheet_38
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 417
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27f42032eda8cfb4db6f91ec2725dc83
+      internalID: 1875655319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medieval_tilesheet_39
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 417
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df4550256ca4c2e4891236fa1b9d7e27
+      internalID: -3806274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medieval_tilesheet_40
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 417
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf388fc247f53d14ca9cba4aeb9c7f1d
+      internalID: 2136538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medieval_tilesheet_41
+      rect:
+        serializedVersion: 2
+        x: 513
+        y: 417
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d102db47e33a994cac195651a00fcba
+      internalID: 261682394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medieval_tilesheet_42
+      rect:
+        serializedVersion: 2
+        x: 609
+        y: 417
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42a5385b7f295114bb90fd3f511f2504
+      internalID: -366361639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medieval_tilesheet_43
+      rect:
+        serializedVersion: 2
+        x: 705
+        y: 417
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b3d480e7361da44697b6bb4e8f111e1
+      internalID: 1526095271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medieval_tilesheet_44
+      rect:
+        serializedVersion: 2
+        x: 801
+        y: 417
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d493993bcc38a30438135514cccf294d
+      internalID: 1144971830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medieval_tilesheet_45
+      rect:
+        serializedVersion: 2
+        x: 897
+        y: 417
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fdd74ae6f053fdb42a86f7e4b26a671a
+      internalID: 1605300765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medieval_tilesheet_46
+      rect:
+        serializedVersion: 2
+        x: 993
+        y: 417
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fe380dd84b29a746b10489870afc197
+      internalID: -1162345361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medieval_tilesheet_47
+      rect:
+        serializedVersion: 2
+        x: 1089
+        y: 417
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0841cb97825edde44ab446653043bcd7
+      internalID: 328807487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medieval_tilesheet_48
+      rect:
+        serializedVersion: 2
+        x: 1185
+        y: 417
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0f5c7aedffa89a4ca3ad05850cf768c
+      internalID: 1459430477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medieval_tilesheet_49
+      rect:
+        serializedVersion: 2
+        x: 1281
+        y: 417
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 961aec90ee3c0f749829e8df9296895a
+      internalID: 1868035927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medieval_tilesheet_50
+      rect:
+        serializedVersion: 2
+        x: 1377
+        y: 417
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81c2fb387b1f1554fa0a5d63b2a1e30f
+      internalID: 1233406551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medieval_tilesheet_51
+      rect:
+        serializedVersion: 2
+        x: 1473
+        y: 417
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 183967912f6d8f04fbbaf321060fc44e
+      internalID: -1027736772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medieval_tilesheet_52
+      rect:
+        serializedVersion: 2
+        x: 1569
+        y: 417
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79a65f718ef381345be4d4409db6ddce
+      internalID: -1890746509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medieval_tilesheet_53
+      rect:
+        serializedVersion: 2
+        x: 1665
+        y: 417
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c63a0d72ab504643ba36917c77dac33
+      internalID: -435332284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medieval_tilesheet_54
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 321
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47a32523f32d50443bdb8fdadddbe4e2
+      internalID: 1659991777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medieval_tilesheet_55
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 321
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dae1ffc61d5def44f83362b9b68898f9
+      internalID: 2019692064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medieval_tilesheet_56
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 321
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77f0b6a8b88c6bc4494b490f7d8f90d5
+      internalID: -2044373933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medieval_tilesheet_57
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 321
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09192033bdfafd1488ef2e42ec79cd2f
+      internalID: 289172757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medieval_tilesheet_58
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 321
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7aed90dd81e6df145b69cd08e0b6e50f
+      internalID: 1791846148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medieval_tilesheet_59
+      rect:
+        serializedVersion: 2
+        x: 513
+        y: 321
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c53ed307f1ed82747b8f2727a08bb2b2
+      internalID: 1232709034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medieval_tilesheet_60
+      rect:
+        serializedVersion: 2
+        x: 609
+        y: 321
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 048a9b8e8f904f14399f51ec82a99340
+      internalID: -1506981145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medieval_tilesheet_61
+      rect:
+        serializedVersion: 2
+        x: 705
+        y: 321
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1bb67d091d3cd5b42a05133f7766ad9a
+      internalID: -704760591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medieval_tilesheet_62
+      rect:
+        serializedVersion: 2
+        x: 801
+        y: 321
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a189e35bf0123d45b904de4882c9074
+      internalID: 432459996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medieval_tilesheet_63
+      rect:
+        serializedVersion: 2
+        x: 897
+        y: 321
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2136d8fd114fed64884871751ff089dc
+      internalID: -338044614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medieval_tilesheet_64
+      rect:
+        serializedVersion: 2
+        x: 993
+        y: 321
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32a138bea8efca747b80d537a7eb5d18
+      internalID: -1591994692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medieval_tilesheet_65
+      rect:
+        serializedVersion: 2
+        x: 1089
+        y: 321
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 477089f74277e154d851f530d25a8855
+      internalID: -342084796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medieval_tilesheet_66
+      rect:
+        serializedVersion: 2
+        x: 1185
+        y: 321
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1d16d2eb9fd0734ea65226600503369
+      internalID: -944861116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medieval_tilesheet_67
+      rect:
+        serializedVersion: 2
+        x: 1281
+        y: 321
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b703d87a9cc06f469cbfa99c0d82245
+      internalID: -1093042992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medieval_tilesheet_68
+      rect:
+        serializedVersion: 2
+        x: 1377
+        y: 321
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be67449dcd09f824488ce40fcb3d023d
+      internalID: 33076171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medieval_tilesheet_69
+      rect:
+        serializedVersion: 2
+        x: 1473
+        y: 321
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb93b47706f3d6b4d9e85b737182c34a
+      internalID: 707317409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medieval_tilesheet_70
+      rect:
+        serializedVersion: 2
+        x: 1569
+        y: 321
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 793b3f15d99085848888c0be30a153c5
+      internalID: 628688445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medieval_tilesheet_71
+      rect:
+        serializedVersion: 2
+        x: 1665
+        y: 321
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1e885d24d767e649be0a77afd37c1dd
+      internalID: -672098264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medieval_tilesheet_72
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 225
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bca55efafcad24847b44c32c77cc0c96
+      internalID: -1921949252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medieval_tilesheet_73
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 225
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1398e1390cd45a340bd454eaffdc97f8
+      internalID: -1208234902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medieval_tilesheet_74
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 225
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42f2ba86a5f728945800023d44717761
+      internalID: -644679213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medieval_tilesheet_75
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 225
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b2ead778c3045e4a8d66526ca18f594
+      internalID: -1579173809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medieval_tilesheet_76
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 225
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2b7ea8e0d5658a489d994b685e68f39
+      internalID: 1585068550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medieval_tilesheet_77
+      rect:
+        serializedVersion: 2
+        x: 513
+        y: 225
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e093a083d782124881a59fe087c771c
+      internalID: -1080387221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medieval_tilesheet_78
+      rect:
+        serializedVersion: 2
+        x: 609
+        y: 225
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfe1a40a64590ff429c115862080dc50
+      internalID: -623986929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medieval_tilesheet_79
+      rect:
+        serializedVersion: 2
+        x: 705
+        y: 225
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1197dcb70ccc90748a148675b0e317af
+      internalID: -2132316906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medieval_tilesheet_80
+      rect:
+        serializedVersion: 2
+        x: 801
+        y: 225
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc4d223201146054dabca76034629e84
+      internalID: -1988164994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medieval_tilesheet_81
+      rect:
+        serializedVersion: 2
+        x: 897
+        y: 225
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5bb41105cf864064180a64f6a206ddb1
+      internalID: -2044864030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medieval_tilesheet_82
+      rect:
+        serializedVersion: 2
+        x: 993
+        y: 225
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92193be4b56e8b949904bf692529c6d2
+      internalID: -1238729231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medieval_tilesheet_83
+      rect:
+        serializedVersion: 2
+        x: 1089
+        y: 225
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8509488ad9773e4fb029c4a5d1cf480
+      internalID: 1595954482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medieval_tilesheet_84
+      rect:
+        serializedVersion: 2
+        x: 1185
+        y: 225
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a89ca0f964fdac84d92af6f21eef7e44
+      internalID: 1589007028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medieval_tilesheet_85
+      rect:
+        serializedVersion: 2
+        x: 1281
+        y: 225
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9055d0b0e6ca1fc48a29e1cc33ae74f6
+      internalID: 48524600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medieval_tilesheet_86
+      rect:
+        serializedVersion: 2
+        x: 1377
+        y: 225
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44a791c0227bae941a13e7b4eb91a35f
+      internalID: -1249533235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medieval_tilesheet_87
+      rect:
+        serializedVersion: 2
+        x: 1473
+        y: 225
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c825dae64be0c9468889c6497325e75
+      internalID: 914604556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medieval_tilesheet_88
+      rect:
+        serializedVersion: 2
+        x: 1569
+        y: 225
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8df3393e4f3c92f41bdff4e247a77ee6
+      internalID: -1080960835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medieval_tilesheet_89
+      rect:
+        serializedVersion: 2
+        x: 1665
+        y: 225
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f1be0ff61106a243ba5a6afdc8fc0c2
+      internalID: 1620286241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medieval_tilesheet_90
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 129
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07312914520dfb641a2d0290368c0c06
+      internalID: -10707565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medieval_tilesheet_91
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 129
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0af673bfe5d1ed64b9a129c76ace70de
+      internalID: -1317831681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medieval_tilesheet_92
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 129
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 407e033b8e76c954291c6399590f86be
+      internalID: 1905930291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medieval_tilesheet_93
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 129
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be3bbd3e0aabd6446a9d5c95c4d1eb7e
+      internalID: 50360237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medieval_tilesheet_94
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 129
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55ae2777aab936940b81d5c205f0fc5c
+      internalID: 1645980691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medieval_tilesheet_95
+      rect:
+        serializedVersion: 2
+        x: 513
+        y: 129
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 178f2ffaa99ba5845a375265cd8df687
+      internalID: 1378166810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medieval_tilesheet_96
+      rect:
+        serializedVersion: 2
+        x: 609
+        y: 129
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b27933083666fb44494c6514a63ffba0
+      internalID: -364180926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medieval_tilesheet_97
+      rect:
+        serializedVersion: 2
+        x: 705
+        y: 129
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1a49630cfe881c4d87dccabe10e3a05
+      internalID: -1757873080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medieval_tilesheet_98
+      rect:
+        serializedVersion: 2
+        x: 801
+        y: 129
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09d51b4dd7ac9e0469f0d43b178790f8
+      internalID: -481457374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medieval_tilesheet_99
+      rect:
+        serializedVersion: 2
+        x: 897
+        y: 129
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fb7bc8564e46064d90316f82a62f1ed
+      internalID: 1793290392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medieval_tilesheet_100
+      rect:
+        serializedVersion: 2
+        x: 993
+        y: 129
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 674e08139e5057d48b846780ed9ca27c
+      internalID: -192742743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medieval_tilesheet_101
+      rect:
+        serializedVersion: 2
+        x: 1089
+        y: 129
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9576928d1fdb3124cba6f60a72af7b2d
+      internalID: 1954127071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medieval_tilesheet_102
+      rect:
+        serializedVersion: 2
+        x: 1185
+        y: 129
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ee7b6913deaff840816a2411b62c399
+      internalID: 829376793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medieval_tilesheet_103
+      rect:
+        serializedVersion: 2
+        x: 1281
+        y: 129
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59e1955262680b341a80cd6aeb5a3793
+      internalID: -2122685604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medieval_tilesheet_104
+      rect:
+        serializedVersion: 2
+        x: 1377
+        y: 129
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6a25d8712388ca4881ff1c71f4c2db4
+      internalID: -1597988965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medieval_tilesheet_105
+      rect:
+        serializedVersion: 2
+        x: 1473
+        y: 129
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b203ebba572170640a302ba79c923578
+      internalID: 1153267907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medieval_tilesheet_106
+      rect:
+        serializedVersion: 2
+        x: 1569
+        y: 129
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3022b0ebbf572a04fb93663887011b81
+      internalID: 1126179087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medieval_tilesheet_107
+      rect:
+        serializedVersion: 2
+        x: 1665
+        y: 129
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7b5f53e04a105c43bdc03858afe04b5
+      internalID: -1339011951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medieval_tilesheet_108
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 33
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63d9240567cff3a48956d898c05efd13
+      internalID: 1647874812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medieval_tilesheet_109
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 33
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd1146c8288399042a329400e941e581
+      internalID: 2009638189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medieval_tilesheet_110
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 33
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1534d18dac172ce499baa4311aeabd90
+      internalID: -1652190613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medieval_tilesheet_111
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 33
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a149358dba736c742b2f320f021b30ff
+      internalID: -1388457973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medieval_tilesheet_112
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 33
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d6e4bfdf079316489254befe7cfbf90
+      internalID: 1268114545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medieval_tilesheet_113
+      rect:
+        serializedVersion: 2
+        x: 513
+        y: 33
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3da04076dddb8a24d817abca2ead648b
+      internalID: -835222079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medieval_tilesheet_114
+      rect:
+        serializedVersion: 2
+        x: 609
+        y: 33
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18dbd3504046ec44392ce998c6841a95
+      internalID: -224857534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medieval_tilesheet_115
+      rect:
+        serializedVersion: 2
+        x: 705
+        y: 33
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c5b1058107577c4884280a9e735aa6e
+      internalID: -1525619476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medieval_tilesheet_116
+      rect:
+        serializedVersion: 2
+        x: 801
+        y: 33
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 693191d913394534490862865b62a546
+      internalID: 295291070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medieval_tilesheet_117
+      rect:
+        serializedVersion: 2
+        x: 897
+        y: 33
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6cb7c03a95e12364d9a3c61079fb57ac
+      internalID: -311119511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medieval_tilesheet_118
+      rect:
+        serializedVersion: 2
+        x: 993
+        y: 33
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b351ff9041acc884090ee1a81a99d8bc
+      internalID: -313621934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medieval_tilesheet_119
+      rect:
+        serializedVersion: 2
+        x: 1089
+        y: 33
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4126cf6f14f41fe46959e17bf5633524
+      internalID: -1574657932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medieval_tilesheet_120
+      rect:
+        serializedVersion: 2
+        x: 1185
+        y: 33
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8e7bd84d5cc198479132cdc5fa01d2e
+      internalID: 489592557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medieval_tilesheet_121
+      rect:
+        serializedVersion: 2
+        x: 1281
+        y: 33
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec24666f8faee4c4482f2eff5d862559
+      internalID: -464647713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medieval_tilesheet_122
+      rect:
+        serializedVersion: 2
+        x: 1377
+        y: 33
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3adce0c7b4a5754f8c64e60689e9d99
+      internalID: 1005633708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medieval_tilesheet_123
+      rect:
+        serializedVersion: 2
+        x: 1473
+        y: 33
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7e68c742dfbcb94899197056ab210f0
+      internalID: 604012941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medieval_tilesheet_124
+      rect:
+        serializedVersion: 2
+        x: 1569
+        y: 33
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e0139b060e6ccf4183b3d93d8ef8c0e
+      internalID: 438276216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medieval_tilesheet_125
+      rect:
+        serializedVersion: 2
+        x: 1665
+        y: 33
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c07350ed116bff4458ea7fb3f831a1fa
+      internalID: 294481075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      medieval_tilesheet_0: 159684166
+      medieval_tilesheet_1: 1924049763
+      medieval_tilesheet_10: 828986579
+      medieval_tilesheet_100: -192742743
+      medieval_tilesheet_101: 1954127071
+      medieval_tilesheet_102: 829376793
+      medieval_tilesheet_103: -2122685604
+      medieval_tilesheet_104: -1597988965
+      medieval_tilesheet_105: 1153267907
+      medieval_tilesheet_106: 1126179087
+      medieval_tilesheet_107: -1339011951
+      medieval_tilesheet_108: 1647874812
+      medieval_tilesheet_109: 2009638189
+      medieval_tilesheet_11: -1857933574
+      medieval_tilesheet_110: -1652190613
+      medieval_tilesheet_111: -1388457973
+      medieval_tilesheet_112: 1268114545
+      medieval_tilesheet_113: -835222079
+      medieval_tilesheet_114: -224857534
+      medieval_tilesheet_115: -1525619476
+      medieval_tilesheet_116: 295291070
+      medieval_tilesheet_117: -311119511
+      medieval_tilesheet_118: -313621934
+      medieval_tilesheet_119: -1574657932
+      medieval_tilesheet_12: -2026269519
+      medieval_tilesheet_120: 489592557
+      medieval_tilesheet_121: -464647713
+      medieval_tilesheet_122: 1005633708
+      medieval_tilesheet_123: 604012941
+      medieval_tilesheet_124: 438276216
+      medieval_tilesheet_125: 294481075
+      medieval_tilesheet_13: -8902081
+      medieval_tilesheet_14: -1889903896
+      medieval_tilesheet_15: 1860684700
+      medieval_tilesheet_16: -1096853881
+      medieval_tilesheet_17: 1419009689
+      medieval_tilesheet_18: 329024926
+      medieval_tilesheet_19: 819398060
+      medieval_tilesheet_2: 186985925
+      medieval_tilesheet_20: 1730250876
+      medieval_tilesheet_21: 1638547519
+      medieval_tilesheet_22: 1402567707
+      medieval_tilesheet_23: 994244595
+      medieval_tilesheet_24: -727100525
+      medieval_tilesheet_25: 1446861482
+      medieval_tilesheet_26: -697832309
+      medieval_tilesheet_27: 1333082675
+      medieval_tilesheet_28: 1925341368
+      medieval_tilesheet_29: 550847647
+      medieval_tilesheet_3: 1024198630
+      medieval_tilesheet_30: -930243237
+      medieval_tilesheet_31: 1696390513
+      medieval_tilesheet_32: -1545226089
+      medieval_tilesheet_33: -348525927
+      medieval_tilesheet_34: -899064600
+      medieval_tilesheet_35: -1233422143
+      medieval_tilesheet_36: -887263709
+      medieval_tilesheet_37: -2022357419
+      medieval_tilesheet_38: 1875655319
+      medieval_tilesheet_39: -3806274
+      medieval_tilesheet_4: -448063378
+      medieval_tilesheet_40: 2136538
+      medieval_tilesheet_41: 261682394
+      medieval_tilesheet_42: -366361639
+      medieval_tilesheet_43: 1526095271
+      medieval_tilesheet_44: 1144971830
+      medieval_tilesheet_45: 1605300765
+      medieval_tilesheet_46: -1162345361
+      medieval_tilesheet_47: 328807487
+      medieval_tilesheet_48: 1459430477
+      medieval_tilesheet_49: 1868035927
+      medieval_tilesheet_5: -579400131
+      medieval_tilesheet_50: 1233406551
+      medieval_tilesheet_51: -1027736772
+      medieval_tilesheet_52: -1890746509
+      medieval_tilesheet_53: -435332284
+      medieval_tilesheet_54: 1659991777
+      medieval_tilesheet_55: 2019692064
+      medieval_tilesheet_56: -2044373933
+      medieval_tilesheet_57: 289172757
+      medieval_tilesheet_58: 1791846148
+      medieval_tilesheet_59: 1232709034
+      medieval_tilesheet_6: 170366831
+      medieval_tilesheet_60: -1506981145
+      medieval_tilesheet_61: -704760591
+      medieval_tilesheet_62: 432459996
+      medieval_tilesheet_63: -338044614
+      medieval_tilesheet_64: -1591994692
+      medieval_tilesheet_65: -342084796
+      medieval_tilesheet_66: -944861116
+      medieval_tilesheet_67: -1093042992
+      medieval_tilesheet_68: 33076171
+      medieval_tilesheet_69: 707317409
+      medieval_tilesheet_7: -236281756
+      medieval_tilesheet_70: 628688445
+      medieval_tilesheet_71: -672098264
+      medieval_tilesheet_72: -1921949252
+      medieval_tilesheet_73: -1208234902
+      medieval_tilesheet_74: -644679213
+      medieval_tilesheet_75: -1579173809
+      medieval_tilesheet_76: 1585068550
+      medieval_tilesheet_77: -1080387221
+      medieval_tilesheet_78: -623986929
+      medieval_tilesheet_79: -2132316906
+      medieval_tilesheet_8: -1968680855
+      medieval_tilesheet_80: -1988164994
+      medieval_tilesheet_81: -2044864030
+      medieval_tilesheet_82: -1238729231
+      medieval_tilesheet_83: 1595954482
+      medieval_tilesheet_84: 1589007028
+      medieval_tilesheet_85: 48524600
+      medieval_tilesheet_86: -1249533235
+      medieval_tilesheet_87: 914604556
+      medieval_tilesheet_88: -1080960835
+      medieval_tilesheet_89: 1620286241
+      medieval_tilesheet_9: -383490923
+      medieval_tilesheet_90: -10707565
+      medieval_tilesheet_91: -1317831681
+      medieval_tilesheet_92: 1905930291
+      medieval_tilesheet_93: 50360237
+      medieval_tilesheet_94: 1645980691
+      medieval_tilesheet_95: 1378166810
+      medieval_tilesheet_96: -364180926
+      medieval_tilesheet_97: -1757873080
+      medieval_tilesheet_98: -481457374
+      medieval_tilesheet_99: 1793290392
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
